@@ -1,2 +1,2 @@
-# Tumor-Detection-XAI
-Tumor Detection and Classification from MRI Images Using AI Models
+# Tumor-Detection-CNN
+Tumor Detection and Classification from MRI Images Using a CNN Model
